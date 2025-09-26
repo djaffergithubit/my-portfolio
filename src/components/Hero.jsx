@@ -52,7 +52,7 @@ function Hero() {
             
             <img 
                 src='/Djef.png'
-                className="rounded-full lg:w-[300px] lg:h-[300px] w-[200px] h-[200px] object-cover lg:mr-[10vw] z-40"
+                className="rounded-full lg:w-[300px] lg:h-[350px] w-[200px] h-[250px] object-cover lg:mr-[10vw] z-40"
             />
 
         </motion.div>
@@ -69,13 +69,13 @@ function Hero() {
                 <h1 className={`col-span-9  
                 text-transparent bg-clip-text ${bgGradiant}`}>Hello, I'm Djaffar Tadjer</h1>
                 <div className='lg:col-span-3'></div>
-                <h1 className='col-span-9   '>Full stack web Developper</h1>
+                <h1 className='col-span-9   '>AI Engineer and Full stack web Developper.</h1>
                 <div className='lg:col-span-3'></div>
-                <h1 className='col-span-9   '>and Futur AI Engeneer and Data Scientist.</h1>
+                {/* <h1 className='col-span-9   '>and Futur AI Engeneer and Data Scientist.</h1> */}
                 <div className='col-span-12 h-[40px]'></div>
                 <div className='lg:col-span-1'></div>
                 <h3 className='col-span-7 text-[16px] opacity-70'>
-                    AI and data sceince student in <span className='text-[#0794D0]'>ESTIN Bejaia</span>, Algeria 
+                    AI and data sceince Engineer studied at <span className='text-[#0794D0]'>ESTIN Bejaia</span>, Algeria. 
                     Full stack developper and enterprenership enthusiast
                 </h3>
                 <div className='col-span-1'></div>
