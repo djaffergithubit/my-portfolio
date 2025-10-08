@@ -34,7 +34,7 @@ function About() {
                 animate={{opacity:1,x:0}}
                 transition={{duration:1,delay:0.2,type:"spring"}}
                 >
-                    I am a full-stack web developer passionate about building visually appealing and functional user experiences. I hold a degree in Artificial Intelligence and Data Science Engineering from ESTIN Bejaia.
+                    I am a full-stack web developer passionate about building visually appealing and functional user experiences. I hold a degree in Artificial Intelligence and Data Science Engineering from ESTIN Bejaia.I am particularly interested in software engineering, especially in designing, structuring, and maintaining scalable and reliable systems. 
                 </motion.p>
                 <motion.p
                 className='leading-10

@@ -1,5 +1,23 @@
 export const projects = [
   {
+    title: "Multilingual fake news detection system",
+    description:
+      "A multilingual fake news detection system using advanced NLP and deep learning models to identify misinformation across English, French, and Spanish texts.",
+    imagePath: "/fake-news.jfif",
+    link: "",
+    github: "https://github.com/djaffergithubit/multilingual-fake-news-detection-system",
+    isLiked: false,
+  },
+  {
+    title: "AI job assistant platform",
+    description:
+      "An AI-powered job assistant platform that helps users create professional resumes and cover letters using LangChain and generative models.",
+    imagePath: "/ai-job-assistant.png",
+    link: "",
+    github: "https://github.com/djaffergithubit/ai-job-assistant",
+    isLiked: false,
+  },
+  {
     title: "Learning Management System Platform",
     description:
       "A fullstack web app that helps students find Courses online.",

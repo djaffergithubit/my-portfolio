@@ -75,8 +75,8 @@ function Hero() {
                 <div className='col-span-12 h-[40px]'></div>
                 <div className='lg:col-span-1'></div>
                 <h3 className='col-span-7 text-[16px] opacity-70'>
-                    AI and data sceince Engineer studied at <span className='text-[#0794D0]'>ESTIN Bejaia</span>, Algeria. 
-                    Full stack developper and enterprenership enthusiast
+                    AI and Data Science Engineer from <span className='text-[#0794D0]'>ESTIN Bejaia</span>, Algeria. 
+                    Full stack developper with a strong interest in software engineering and entrepreneurship.
                 </h3>
                 <div className='col-span-1'></div>
                 <div className='col-span-12 h-[40px]'></div>
